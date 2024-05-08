@@ -4,32 +4,32 @@
 The CarDekho company maintains a database of the cars sold through their platform. The data represents the cars sold by Car Dekho and the car related features. We will build a linear regression model to predict the Selling price of the car. Calculate all the error metrics and diagnostic plots to check the regression result. The dataset consists of information about cars, including their names, manufacturing years, present prices, selling price, kilometers driven, and many other relevant details. With data sourced from CarDekho, it encompasses data of 301 cars, offering a wide array of features such as fuel type, seller type, transmission, and ownership history. 
 
 ## Data Description:
-Car_Name: Name of the cars.
-Year: Year of the car when it was bought.
-Selling_Price: Price at which the car is being sold.
-Present_Price: Current ex-showroom price of the car.
-Kms_Driven: Distance completed by the car in km.
-Fuel_Type: Fuel type of the car.
-Seller_Type: Tells if a Seller is Individual or a Dealer.
-Transmission: Gear transmission of the car (Automatic/Manual).
-Owner: Number of previous owners of the car.
+Car_Name: Name of the cars.<br/>
+Year: Year of the car when it was bought.<br/>
+Selling_Price: Price at which the car is being sold.<br/>
+Present_Price: Current ex-showroom price of the car.<br/>
+Kms_Driven: Distance completed by the car in km.<br/>
+Fuel_Type: Fuel type of the car.<br/>
+Seller_Type: Tells if a Seller is Individual or a Dealer.<br/>
+Transmission: Gear transmission of the car (Automatic/Manual).<br/>
+Owner: Number of previous owners of the car.<br/>
 
 ## Project Overview
 ## Tasks/Activities List:
 
-Read the cars dataset.
-Exploratory Data Analysis (EDA) - Showed the Data quality check, treat the missing values, etc.
-Visualize the diagnostic plots
-Transform the categorical data.
-Model building.
-Apply the Multiple Linear Regression model assumptions.
-Print the model results
+Read the cars dataset.<br/>
+Exploratory Data Analysis (EDA) - Showed the Data quality check, treat the missing values, etc.<br/>
+Visualize the diagnostic plots.<br/>
+Transform the categorical data.<br/>
+Model building.<br/>
+Apply the Multiple Linear Regression model assumptions.<br/>
+Print the model results<br/>
 
 
-Success Metrics:
-Below are the metrics for the successful of this project
-The R-squared of the trained model > 0.8
-The Adjusted R-squared of the trained model > 0.8
+## Success Metrics:
+Below are the metrics for the successful of this project<br/>
+The R-squared of the trained model > 0.8<br/>
+The Adjusted R-squared of the trained model > 0.8<br/>
 
 
 
